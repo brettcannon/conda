@@ -6,6 +6,6 @@ pytest-cov
 pytest-timeout
 radon
 responses
-codecov==2.0.5
+codecov==2.0.16
 pexpect
 conda-build
